@@ -10,9 +10,9 @@ This interactive **Shiny** application provides a comprehensive toolkit for **da
 - **🎯 User-friendly UI**: Simple interface with parameter selection for clustering and rule mining.  
 
 ## 📌 How It Works
-- **Upload CSV File
-- **Explore Data Cleaning & Transformations
-- **Generate Visualizations (bar charts, pie charts, etc.)
-- **Perform K-means Clustering
-- **Apply Association Rule Mining
-- **install.packages(c("shiny", "ggplot2", "dplyr", "arules", "arulesViz"))
+- Upload CSV File
+- Explore Data Cleaning & Transformations
+- Generate Visualizations (bar charts, pie charts, etc.)
+- Perform K-means Clustering
+- Apply Association Rule Mining
+- install.packages(c("shiny", "ggplot2", "dplyr", "arules", "arulesViz"))
