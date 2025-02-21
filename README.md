@@ -9,11 +9,10 @@ This interactive **Shiny** application provides a comprehensive toolkit for **da
 - **🔗 Association Rule Mining**: Extract meaningful relationships between items using the **Apriori** algorithm.  
 - **🎯 User-friendly UI**: Simple interface with parameter selection for clustering and rule mining.  
 
-## 🛠️ Technologies Used  
-- **R** (Shiny, ggplot2, dplyr, arules, arulesViz)  
-
-## 📥 Installation & Usage  
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+## 📌 How It Works
+- **Upload CSV File
+- **Explore Data Cleaning & Transformations
+- **Generate Visualizations (bar charts, pie charts, etc.)
+- **Perform K-means Clustering
+- **Apply Association Rule Mining
+- **install.packages(c("shiny", "ggplot2", "dplyr", "arules", "arulesViz"))
